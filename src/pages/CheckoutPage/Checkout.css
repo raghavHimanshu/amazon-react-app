@@ -1,0 +1,15 @@
+.checkout {
+    display: flex;
+    padding: 10px;
+    background-color: var(--color-white);
+    height: max-content;
+}
+
+.checkout__left {
+    width: 100%;
+}
+
+.checkout__leftImage {
+    width: 100%;
+    margin-bottom: 10px;
+}
