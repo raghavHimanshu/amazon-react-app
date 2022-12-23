@@ -25,11 +25,7 @@ const reducer = (state, action) => {
                 ...state,
                 basket: newBasket,
             };
-        // We can remove all products (same id) from the basket from this
-        // return{
-        //     ...state,
-        //     basket: state.basket.filter(item => item.id !== action.id)
-        // };
+        
         case "SET_USER":
             return {
                 ...state,
