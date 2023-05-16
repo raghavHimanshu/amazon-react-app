@@ -28,3 +28,11 @@ function BasketItem(props) {
 }
 
 export default BasketItem
+
+// /Demo of the Project
+
+// Scope of Improvement
+
+// Bugs / Issues Faced while developing the project
+
+// Complex Code Explanation/ 
